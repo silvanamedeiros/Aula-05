@@ -1,0 +1,42 @@
+
+header h1 {
+    background-color: blanchedalmond;
+    text-align: center;
+  padding: 25px;
+}
+
+header h1{
+    color: black;/*COR DA LETRA*/
+    font-size: 30px;/*SEMPRE PARA DETERMINAR O TAM DA LETRA*/
+}
+
+    
+.sm01 {padding: 150px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.sm02 {
+    padding: 150px;
+    background-color: antiquewhite;
+}
+.sm03 {
+    padding: 150px;
+    background-color: beige;
+}
+
+        
+
+    
+
+footer {
+    background-color: black; /*COR DE FUNDO DO RODAPÉ*/
+    text-align: center; /*ALINHA O TEXTO*/
+    padding: 25px;/* TAMANHO DA CAIXA*/
+    color: white;
+}
+       
+
+footer .primeiro-paragrafo {
+    color: yellow;
+}
